@@ -69,6 +69,7 @@ hr {
     padding-inline: 1rem;
 
     & h3 {
+      color: var(--dark);
       font-size: 1.2rem;
     }
 
