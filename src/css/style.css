@@ -51,8 +51,22 @@ main {
       background-color: var(--light-purple);
       border-radius: 1rem;
       padding: .3rem 1.2rem;
-      font-size: .65rem;
+      font-size: .7rem;
       font-weight: 600;
+    }
+  }
+
+  & section {
+    gap: .5rem;
+  
+    & h3 {
+      font-size: 1.1rem;
+    }
+
+    & p {
+      color: var(--gray);
+      font-size: .9rem;
+      line-height: 1.3;
     }
   }
 }
